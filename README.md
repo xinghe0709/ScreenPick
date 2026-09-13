@@ -2,6 +2,8 @@
 
 Mac 多屏截图工具。先选屏幕，再截图，避免一次截出多张后再找图。
 
+![屏选应用界面预览](Assets/screenpick-preview.png)
+
 ## 一键安装
 
 要求：macOS 13 或更新版本。
